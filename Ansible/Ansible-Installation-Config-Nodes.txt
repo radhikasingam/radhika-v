@@ -35,7 +35,7 @@ chmod 600 /home/ansibleadmin/.ssh/authorized_keys
 chmod 700 /home/ansibleadmin/.ssh
 
 #As a root user edit below file:
-
+#exit
 $ visudo
 
 add the below mentioned line in the file and save it.
